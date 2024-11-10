@@ -1,0 +1,11 @@
+Main {
+function void main(){
+
+var int a, b;
+var int sum;
+
+sum = a + b;
+
+do out.printString(sum);
+}
+}
